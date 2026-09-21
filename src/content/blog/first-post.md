@@ -1,5 +1,5 @@
 ---
-title: "On the unreasonable effectiveness of dimensional analysis"
+title: ""
 description: "Why physicists can guess the answer before solving the problem"
 pubDate: 2026-09-18
 tags: ["physics", "methods"]
